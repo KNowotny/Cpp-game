@@ -1,0 +1,75 @@
+﻿  Źródło.cpp
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(68): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(98): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(117): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(142): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(251): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(285): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(306): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(465): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(523): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(533): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(557): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(596): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(756): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(846): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(887): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\leszek\desktop\gra\morsjanin\morsjanin\morsjanin\źródło.cpp(890): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Morsjanin.vcxproj -> C:\Users\Leszek\Desktop\Gra\Morsjanin\Morsjanin\x64\Debug\Morsjanin.exe
